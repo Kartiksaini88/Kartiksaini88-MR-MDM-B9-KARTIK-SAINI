@@ -87,6 +87,3 @@ To use your own key:
 If you have any suggestions or questions:
 **📬 [kartiksaini@email.com](mailto:kartiksaini@email.com)** (replace with your real one)
 
----
-
-Would you like me to create the actual `README.md` file and add it to your project folder or zip everything for easy upload to GitHub or Vercel?
