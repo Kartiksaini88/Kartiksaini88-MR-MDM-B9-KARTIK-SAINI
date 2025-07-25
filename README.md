@@ -1,6 +1,3 @@
-Sure! Here's a clean, human-friendly, and professional `README.md` file for your Weather App project — perfect for GitHub or submission 👇
-
----
 
 ## 🌦️ Weather App
 
@@ -48,20 +45,8 @@ Internz Valley
 
 ### 📦 Live Demo
 
-🔗 [Click here to view the live project](https://your-vercel-link.vercel.app)
-*(Replace with your actual Vercel URL)*
+🔗 [Click here to view the live project](https://kartiksaini88-mr-mdm-b9-kartik-sain-smoky.vercel.app/)
 
----
-
-### 🧪 How to Run Locally
-
-1. Clone the repository
-
-   ```
-   git clone https://github.com/yourusername/weather-app.git
-   ```
-2. Open `index.html` in your browser
-3. Done ✅
 
 ---
 
@@ -75,15 +60,4 @@ To use your own key:
 3. Replace the `apiKey` in `script.js` with your own
 
 ---
-
-### 📸 Screenshots
-
-> You can add screenshots here if you want — just paste image links or upload them to your repo
-
----
-
-### 📧 Contact
-
-If you have any suggestions or questions:
-**📬 [kartiksaini@email.com](mailto:kartiksaini@email.com)** (replace with your real one)
 
